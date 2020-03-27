@@ -1,5 +1,5 @@
 # include<stdio.h>
-void main
+void main()
 {
 char name[50];
 float unit,charge;
